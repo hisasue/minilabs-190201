@@ -36,5 +36,6 @@ public class AcceptanceTest {
 			Configuration.browser = WebDriverRunner.CHROME;
 		}
 		Configuration.headless = false;
+    Configuration.baseUrl = "http://localhost";
 	}
 }

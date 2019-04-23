@@ -6,10 +6,7 @@ import static com.codeborne.selenide.Selenide.$$;
 import static com.codeborne.selenide.Selenide.open;
 import static org.junit.Assert.assertEquals;
 
-import com.codeborne.selenide.Condition;
-
-import com.kepco.TodoApp;
-import cucumber.api.PendingException;
+import com.redhat.labsjp.sample.TodoApp;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;

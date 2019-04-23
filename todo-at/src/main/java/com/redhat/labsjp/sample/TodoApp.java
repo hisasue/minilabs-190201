@@ -1,4 +1,4 @@
-package com.kepco;
+package com.redhat.labsjp.sample;
 
 import java.util.HashMap;
 import java.util.List;

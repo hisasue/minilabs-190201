@@ -1,4 +1,4 @@
-package com.kepco;
+package com.redhat.labsjp.sample;
 
 import org.junit.Before;
 import org.junit.Test;
